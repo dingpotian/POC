@@ -13,6 +13,12 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
+# 2025-04-21 新增漏洞
+- [用友U8-CRM系统接口eventseteventsetlist.php存在SQL注入](./wpoc/用友OA/用友U8-CRM系统接口eventseteventsetlist.php存在SQL注入.md)
+- [天闻数媒名师工作室系统fileTempDownload任意文件读取](./wpoc/天闻数媒名师工作室系统/天闻数媒名师工作室系统fileTempDownload任意文件读取.md)
+- [龙腾码支付payservicecurl任意文件读取](./wpoc/龙腾码支付/龙腾码支付payservicecurl任意文件读取.md)
+- [时空智友企业流程化管控系统indexService.notice存在sql注入漏洞](./wpoc/时空智友/时空智友企业流程化管控系统indexService.notice存在sql注入漏洞.md)
+
 # 2025-04-07 新增漏洞
 - [WordPress RomethemeKit Plugin存在RCE漏洞(CVE-2025-30911)](./wpoc/WordPress/WordPress%20RomethemeKit%20Plugin存在RCE漏洞(CVE-2025-30911).md)
 - [WordPress Beam me up Scotty Plugin存在xss漏洞(CVE-2025-31864)](./wpoc/WordPress/WordPress%20Beam%20me%20up%20Scotty%20Plugin存在xss漏洞(CVE-2025-31864).md)
